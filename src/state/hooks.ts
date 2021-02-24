@@ -34,7 +34,7 @@ export const useFetchPublicData = () => {
 
 export const useFarms = (): Farm[] => {
   const farms = useSelector((state: State) => state.farms.data)
-  return farms
+  return farms.filter(f => f.pid !== 14)
 }
 
 export const useFarmFromPid = (pid): Farm => {
@@ -70,7 +70,7 @@ export const usePools = (account): Pool[] => {
   }, [account, dispatch, fastRefresh])
 
   const pools = useSelector((state: State) => state.pools.data)
-  return pools
+  return pools.filter(p => p.sousId === 0)
 }
 
 export const usePoolFromPid = (sousId): Pool => {

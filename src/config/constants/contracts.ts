@@ -1,7 +1,7 @@
 export default {
   candy: {
     97: '',
-    56: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    56: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
   },
   catup: {
     97: '',

@@ -5,13 +5,13 @@ const pools: PoolConfig[] = [
     sousId: 0,
     tokenName: 'CANDY',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0x73feaa1eE314F8c655E354234017bE2193C9E24E',
     },
     poolCategory: PoolCategory.CORE,
-    projectLink: 'https://pancakeswap.finance/',
+    projectLink: 'https://candyswap.app/',
     harvest: true,
     tokenPerBlock: '10',
     sortOrder: 1,
@@ -22,7 +22,7 @@ const pools: PoolConfig[] = [
     sousId: 52,
     tokenName: 'SWINGBY',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x02aa767e855b8e80506fb47176202aA58A95315a',
@@ -39,7 +39,7 @@ const pools: PoolConfig[] = [
     sousId: 51,
     tokenName: 'BRY',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x1c736F4FB20C7742Ee83a4099fE92abA61dFca41',
@@ -56,7 +56,7 @@ const pools: PoolConfig[] = [
     sousId: 50,
     tokenName: 'ZEE',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x02861B607a5E87daf3FD6ec19DFB715F1b371379',
@@ -73,7 +73,7 @@ const pools: PoolConfig[] = [
     sousId: 49,
     tokenName: 'SWGb',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x73e4E8d010289267dEe3d1Fc48974B60363963CE',
@@ -128,7 +128,7 @@ const pools: PoolConfig[] = [
     sousId: 46,
     tokenName: 'SFP',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x2B02d43967765b18E31a9621da640588f3550EFD',
@@ -145,7 +145,7 @@ const pools: PoolConfig[] = [
     sousId: 45,
     tokenName: 'LINA',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x212bb602418C399c29D52C55100fD6bBa12bea05',
@@ -162,7 +162,7 @@ const pools: PoolConfig[] = [
     sousId: 44,
     tokenName: 'LINA',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x04aE8ca68A116278026fB721c06dCe709eD7013C',
@@ -179,7 +179,7 @@ const pools: PoolConfig[] = [
     sousId: 43,
     tokenName: 'LIT',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x1714bAAE9DD4738CDEA07756427FA8d4F08D9479',
@@ -196,7 +196,7 @@ const pools: PoolConfig[] = [
     sousId: 42,
     tokenName: 'HGET',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xcCD0b93cC6ce3dC6dFaA9DB68f70e5C8455aC5bd',
@@ -213,7 +213,7 @@ const pools: PoolConfig[] = [
     sousId: 41,
     tokenName: 'BDO',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x9cB24e9460351bC51d4066BC6AEd1F3809b02B78',
@@ -230,7 +230,7 @@ const pools: PoolConfig[] = [
     sousId: 40,
     tokenName: 'EGLD',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x2dcf4cDFf4Dd954683Fe0a6123077f8a025b66cF',
@@ -247,7 +247,7 @@ const pools: PoolConfig[] = [
     sousId: 39,
     tokenName: 'UST',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x6EFa207ACdE6e1caB77c1322CbdE9628929ba88F',
@@ -264,7 +264,7 @@ const pools: PoolConfig[] = [
     sousId: 38,
     tokenName: 'wSOTE',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xD0b738eC507571176D40f28bd56a0120E375f73a',
@@ -281,7 +281,7 @@ const pools: PoolConfig[] = [
     sousId: 37,
     tokenName: 'FRONT',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xf7a31366732F08E8e6B88519dC3E827e04616Fc9',
@@ -298,7 +298,7 @@ const pools: PoolConfig[] = [
     sousId: 36,
     tokenName: 'Helmet',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x9F23658D5f4CEd69282395089B0f8E4dB85C6e79',
@@ -315,7 +315,7 @@ const pools: PoolConfig[] = [
     sousId: 35,
     tokenName: 'BTCST',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xB6fd2724cc9c90DD31DA35DbDf0300009dceF97d',
@@ -332,7 +332,7 @@ const pools: PoolConfig[] = [
     sousId: 34,
     tokenName: 'BSCX',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x108BFE84Ca8BCe0741998cb0F60d313823cEC143',
@@ -349,7 +349,7 @@ const pools: PoolConfig[] = [
     sousId: 33,
     tokenName: 'TEN',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x4A26b082B432B060B1b00A84eE4E823F04a6f69a',
@@ -366,7 +366,7 @@ const pools: PoolConfig[] = [
     sousId: 32,
     tokenName: 'bALBT',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x3cc08B7C6A31739CfEd9d8d38b484FDb245C79c8',
@@ -383,7 +383,7 @@ const pools: PoolConfig[] = [
     sousId: 31,
     tokenName: 'ASR',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xd18E1AEb349ef0a6727eCe54597D98D263e05CAB',
@@ -400,7 +400,7 @@ const pools: PoolConfig[] = [
     sousId: 30,
     tokenName: 'ATM',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x68C7d180bD8F7086D91E65A422c59514e4aFD638',
@@ -417,7 +417,7 @@ const pools: PoolConfig[] = [
     sousId: 29,
     tokenName: 'OG',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xbE65d7e42E05aD2c4ad28769dc9c5b4b6EAff2C7',
@@ -434,7 +434,7 @@ const pools: PoolConfig[] = [
     sousId: 28,
     tokenName: 'REEF',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x1500fa1afbfe4f4277ed0345cdf12b2c9ca7e139',
@@ -451,7 +451,7 @@ const pools: PoolConfig[] = [
     sousId: 27,
     tokenName: 'DITTO',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x624ef5C2C6080Af188AF96ee5B3160Bb28bb3E02',
@@ -487,7 +487,7 @@ const pools: PoolConfig[] = [
     sousId: 24,
     tokenName: 'JUV',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x543467B17cA5De50c8BF7285107A36785Ab57E56',
@@ -504,7 +504,7 @@ const pools: PoolConfig[] = [
     sousId: 25,
     tokenName: 'PSG',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x65aFEAFaec49F23159e897EFBDCe19D94A86A1B6',
@@ -521,7 +521,7 @@ const pools: PoolConfig[] = [
     sousId: 22,
     tokenName: 'JUV',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x27Bd41E77cab966a57232915292410ACfD2761Ac',
@@ -538,7 +538,7 @@ const pools: PoolConfig[] = [
     sousId: 23,
     tokenName: 'PSG',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x1DA236Ec18D80ADd7740baD2A74cdA2ADb9E17bE',
@@ -555,7 +555,7 @@ const pools: PoolConfig[] = [
     sousId: 21,
     tokenName: 'VAI',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x1AD34D8d4D79ddE88c9B6b8490F8fC67831f2CAe',
@@ -590,7 +590,7 @@ const pools: PoolConfig[] = [
     sousId: 19,
     tokenName: 'BNB',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x326D754c64329aD7cb35744770D56D0E1f3B3124',
@@ -607,7 +607,7 @@ const pools: PoolConfig[] = [
     sousId: 18,
     tokenName: 'BLK',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x42Afc29b2dEa792974d1e9420696870f1Ca6d18b',
@@ -624,7 +624,7 @@ const pools: PoolConfig[] = [
     sousId: 17,
     tokenName: 'BLK',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xBb2B66a2c7C2fFFB06EA60BeaD69741b3f5BF831',
@@ -641,7 +641,7 @@ const pools: PoolConfig[] = [
     sousId: 16,
     tokenName: 'UNFI',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xFb1088Dae0f03C5123587d2babb3F307831E6367',
@@ -658,7 +658,7 @@ const pools: PoolConfig[] = [
     sousId: 15,
     tokenName: 'TWT',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x9c4EBADa591FFeC4124A7785CAbCfb7068fED2fb',
@@ -675,7 +675,7 @@ const pools: PoolConfig[] = [
     sousId: 14,
     tokenName: 'HARD',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0x90F995b9d46b32c4a1908A8c6D0122e392B3Be97',
@@ -692,7 +692,7 @@ const pools: PoolConfig[] = [
     sousId: 13,
     tokenName: 'bROOBEE',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '',
       56: '0xdc8c45b7F3747Ca9CaAEB3fa5e0b5FCE9430646b',
@@ -709,7 +709,7 @@ const pools: PoolConfig[] = [
     sousId: 12,
     tokenName: 'STAX',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0xFF02241a2A1d2a7088A344309400E9fE74772815',
@@ -726,7 +726,7 @@ const pools: PoolConfig[] = [
     sousId: 11,
     tokenName: 'NAR',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0xDc938BA1967b06d666dA79A7B1E31a8697D1565E',
@@ -743,7 +743,7 @@ const pools: PoolConfig[] = [
     sousId: 10,
     tokenName: 'NYA',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0x07a0A5B67136d40F4d7d95Bc8e0583bafD7A81b9',
@@ -760,7 +760,7 @@ const pools: PoolConfig[] = [
     sousId: 9,
     tokenName: 'CTK',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xAfd61Dc94f11A70Ae110dC0E0F2061Af5633061A',
       56: '0x21A9A53936E812Da06B7623802DEc9A1f94ED23a',
@@ -777,7 +777,7 @@ const pools: PoolConfig[] = [
     sousId: 8,
     tokenName: 'TWT',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xAfd61Dc94f11A70Ae110dC0E0F2061Af5633061A',
       56: '0xe7f9A439Aa7292719aC817798DDd1c4D35934aAF',
@@ -794,7 +794,7 @@ const pools: PoolConfig[] = [
     sousId: 7,
     tokenName: 'INJ',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xAfd61Dc94f11A70Ae110dC0E0F2061Af5633061A',
       56: '0xcec2671C81a0Ecf7F8Ee796EFa6DBDc5Cb062693',
@@ -844,7 +844,7 @@ const pools: PoolConfig[] = [
     sousId: 4,
     tokenName: 'SXP',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0xD32B30b151a6aDB2e0Fa573a37510C097DaBD2F3',
@@ -878,7 +878,7 @@ const pools: PoolConfig[] = [
     sousId: 2,
     tokenName: 'ALPHA',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0x73c83bd1646991cBca3e6b83ca905542FE07C57A',
@@ -912,7 +912,7 @@ const pools: PoolConfig[] = [
     sousId: -1,
     tokenName: 'XVS',
     stakingTokenName: QuoteToken.CANDY,
-    stakingTokenAddress: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+    stakingTokenAddress: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0x6ab8463a4185b80905e05a9ff80a2d6b714b9e95',

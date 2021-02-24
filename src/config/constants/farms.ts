@@ -7,12 +7,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'CANDY-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+      56: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     },
     tokenSymbol: 'CANDY',
     tokenAddresses: {
       97: '',
-      56: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+      56: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -22,7 +22,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'WOOPER-CANDY LP',
     lpAddresses: {
       97: '',
-      56: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+      56: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     },
     tokenSymbol: 'WOOPER',
     tokenAddresses: {
@@ -38,7 +38,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'WOOPER-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+      56: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     },
     tokenSymbol: 'WOOPER',
     tokenAddresses: {
@@ -54,7 +54,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xF8ab43A1b8175f75c4bEd658EbAd7b47b6fEa5E1',
+      56: '0x426FD588a1cBe3EfF1f6BbEf30D0D5B727ab0cCb',
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
