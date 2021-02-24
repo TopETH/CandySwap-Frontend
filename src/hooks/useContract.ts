@@ -5,7 +5,7 @@ import useWeb3 from 'hooks/useWeb3'
 import {
   getAddress,
   getMasterChefAddress,
-  getCakeAddress,
+  getCandyAddress,
   getLotteryAddress,
   getLotteryTicketAddress,
   getBunnyFactoryAddress,
@@ -55,7 +55,7 @@ export const useERC20 = (address: string) => {
 }
 
 export const useCake = () => {
-  return useERC20(getCakeAddress())
+  return useERC20(getCandyAddress())
 }
 
 export const useBunnyFactory = () => {
